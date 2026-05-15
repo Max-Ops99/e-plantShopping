@@ -1,3 +1,15 @@
-# coding-project-template
 
-Coursera project task completion
+# Paradise Nursery Shopping Application
+
+## Online web application for an online plant shop which offers a variety of house plants
+
+The Paradise Nursery shopping cart features will include:
+***
+
+* A Landing page with a button linking to the product listing page
+* A navigation bar with links to the landing, product listing, and shopping cart pages
+* A card for each plant that showcases the different plants along with their images, name, description, cost and an Add to cart button.
+* Plant sections describing the plants. For example, "Aromatic Plants" and "Medicinal Plants".
+* A cart page which displays the products in the cart.
+* The cart has a card for each type of plant in the cart. Each card  have the thumbnail, the unit cost, the cost for all of the plants of that type and buttons to increase and decrease the quantity along with Delete button.
+* A Continue Shopping and Checkout buttons
