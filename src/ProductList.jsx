@@ -1,6 +1,6 @@
 import React, { useState,useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { addItem } from './CreateSlice';
+import { addItem } from './CartSlice';
 import './ProductList.css'; // Import CSS file
 
 import './ProductList.css'; // Import CSS file
